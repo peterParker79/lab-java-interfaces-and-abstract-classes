@@ -1,0 +1,11 @@
+Vector: Vector is more efficient when previously you know how many items need
+and do not need increase space for add new items.
+
+For example : "You need input exactly five numbers because a wizard will find out"
+all numbers".
+
+ArrayList: It's more flexible than Vector. It's more useful when you previously dont
+know numbers of item to storage.
+
+For example: You need a repository that contains objects but you do not how many will
+storage.
